@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "English Grammar Launch: Upgrade your speaking",
+        "img": "https://englishlive.ef.com/blog/wp-content/uploads/sites/2/2015/05/fluency-in-5-easy-steps.jpg",
+        "duration": "6 hours",
+        "instructor": "Anthony",
+        "price": "14$",
+        "description": "Learn English grammar through lectures and listening and speaking practice."
+    },
+    {
+        "id": 2,
+        "name": "Master English grammar| Grammar rules, practice, tests",
+        "img": "https://www.princetonadultschool.org/wp-content/uploads/2021/05/Learn-English.png",
+        "duration": "7.5 hours",
+        "instructor": "Logus",
+        "price": "22$",
+        "description": "Improve your spoken English and English Grammar. Lots of English Grammar tests, English speaking, English listening"
+    },
+    {
+        "id": 3,
+        "name": "Spanish for Beginners. The Complete Method. Level 1",
+        "img": "https://www.pathfindershomeschool.com/wp-content/uploads/2020/05/spanish-courses-3.jpg",
+        "duration": "8 hours",
+        "instructor": "Peter",
+        "price": "5$",
+        "description": "Learn Spanish with the complete, non-stop SPEAKING method, in a matter of days, not years."
+    },
+    {
+        "id": 4,
+        "name": "Spanish for Beginners. The complete Method. Level 2.",
+        "img": "https://dp4g669tqdae4.cloudfront.net/content/uploads/2019/09/12161658/Espanol.-Translation-Spanish.-Language-hand-drawn-doodles-and-lettering.-1087621188_7013x4954.jpg",
+        "duration": "8 hours",
+        "instructor": "Peter",
+        "price": "11$",
+        "description": "Learn Spanish with the complete, non-stop SPEAKING method - in a matter of days, not years."
+    },
+    {
+        "id": 5,
+        "name": "Master Japanese Language Course beginner frindly course",
+        "img": "https://www.gtalent.jp/blog/wp-content/uploads/2019/08/japanese1.jpg",
+        "duration": "12 hours",
+        "instructor": "Hezarfen",
+        "price": "18$",
+        "description": "Japanese for beginners. You will learn japanese language from scratch!"
+    },
+    {
+        "id": 6,
+        "name": "Japanese Course for Absolute Beginners (Letters, Alphabet)",
+        "img": "https://ae01.alicdn.com/kf/Hf225771a3b7a45a7a2d48bfd22f2366eE/Reusable-Refill-Japanese-Copybook-Set-children-Exercise-Book-Adult-Hand-Writing-Japanese-Calligraphy-Practice-Word-Book.jpg",
+        "duration": "10 hours",
+        "instructor": "Felicity",
+        "price": "11$",
+        "description": "Elementary Japanese for non-Japanese Beginner Course Hiragana + Katakana + Basic Conversation"
+    },
+    {
+        "id": 7,
+        "name": "French Beginners Level - Stunning Success",
+        "img": "https://piggy-rider.s3.ap-south-1.amazonaws.com/learn-french-language-by-aditi-jain-primary-image-CIikkuApePSneIft_750_500.jpg",
+        "duration": "12 hours",
+        "instructor": "Anuj",
+        "price": "15$",
+        "description": "DELF A1, IGCSE French, IB French ab initio - Learn to read, listen, speak and write french"
+    },
+    {
+        "id": 8,
+        "name": "French for Beginners. The Complete Method.",
+        "img": "https://piggy-rider.s3.ap-south-1.amazonaws.com/learn-french-language-by-aditi-jain-primary-image-CIikkuApePSneIft_750_500.jpg",
+        "duration": "9 hours",
+        "instructor": "Hanley",
+        "price": "15$",
+        "description": "Learn French painlessly: The complete, non-stop SPEAKING French language course: Mastery of the basics for beginners."
+    },
+    {
+        "id": 9,
+        "name": "Learn German Language: Complete",
+        "img": "https://d37sy4vufic209.cloudfront.net/website/_next/static/dynamic/2e5365d78e4a3c7e83045c507560911d/700.jpg",
+        "duration": "5.5 hours",
+        "instructor": "AbcEdu",
+        "price": "13$",
+        "description": "Learn German with a Native Teacher. Complete Course."
+    }
+]
